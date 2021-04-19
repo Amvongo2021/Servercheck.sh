@@ -1,0 +1,1 @@
+# Servercheck.sh
